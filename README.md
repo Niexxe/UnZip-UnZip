@@ -2,7 +2,7 @@
 
 ---
 
-<!--
+```
 
 import zipfile
 import os
@@ -43,4 +43,5 @@ while True:
  
 print("Распаковка завершена.")
 
--->
+
+```
